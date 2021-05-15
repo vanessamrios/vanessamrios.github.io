@@ -1,0 +1,44 @@
+body {
+    background-color: #FFE5D9;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #95757E;
+    line-height: 20px;
+    width: 100%;
+}
+
+img {
+    border-radius: 20%;
+}
+
+.nome {
+    text-align: center;
+    color: #9D8189;
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+ul {
+    list-style: none;
+    line-height: 1,5cm;
+}
+
+a {
+    text-decoration: none;
+}
+
+.quemsoueu {
+    text-align: center;
+    margin: 
+}
+
+.minhashabilidades {
+    background-color: #FFF1EB
+    
+}
+
+.meencontre {
+    background-color: #FFF1EB
+}
